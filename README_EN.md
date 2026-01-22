@@ -41,12 +41,13 @@ Data was cleaned and transformed using Python.
 - Use the scoring model as an early warning system
 
 ## 📁 Repository Structure
-- dashboard/     → Dashboard screenshots or Tableau link
-- data/          → Datasets used in the analysis
-- notebooks/     → Jupyter notebooks with analysis and scoring logic
-- Hallazgos Evaluación Empresa CallMeMaybe.pdf
-- README.md
-- requirements.txt
+- `dashboard/`     → Dashboard screenshots or Tableau link
+- `data/`          → Datasets used in the analysis
+- `notebooks/`     → Jupyter notebooks with analysis and scoring logic
+- `Hallazgos Evaluación Empresa CallMeMaybe.pdf`
+- `README.md`
+- `README_EN.md` → English version
+- `requirements.txt`
 
 ## ⚙️ Technologies
 - Python
