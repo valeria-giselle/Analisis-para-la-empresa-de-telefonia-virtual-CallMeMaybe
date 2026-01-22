@@ -41,11 +41,11 @@ Data was cleaned and transformed using Python.
 - Use the scoring model as an early warning system
 
 ## 📁 Repository Structure
-- Hallazgos Evaluación Empresa CallMeMaybe → Analytical proposal
-- proyecto_sprint_14.ipynb → Exploratory analysis, cleaning, and scoring logic
-- score_operadores.csv → Dataset
-- telecom_clients_us.csv → Dataset
-- telecom_dataset_us.csv → Dataset
+├── dashboard/     # Dashboard screenshots or Tableau link
+├── data/          # Datasets used in the analysis
+├── notebooks/     # Jupyter notebooks with analysis and scoring logic
+├── Hallazgos Evaluación Empresa CallMeMaybe.pdf
+├── README.md
 
 # CallMeMaybe – Sistema de Scoring de Desempeño de Operadores
 
@@ -90,9 +90,9 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - Utilizar el sistema de scoring como un mecanismo de alerta temprana para detectar problemas operativos
 
 ## 📁 Estructura del Repositorio
-- Hallazgos Evaluación Empresa CallMeMaybe → Propuesta analítica
-- proyecto_sprint_14.ipynb → Análisis exploratorio, limpieza y lógica de scoring
-- score_operadores.csv → Dataset utilizado en el proyecto
-- telecom_clients_us.csv → Dataset utilizado en el proyecto
-- telecom_dataset_us.csv → Dataset utilizado en el proyecto
+├── dashboard/     # Tableau link
+├── data/          # Datasets usados en el proyecto
+├── notebooks/     # Jupyter notebook
+├── Hallazgos Evaluación Empresa CallMeMaybe.pdf
+├── README.md
 
