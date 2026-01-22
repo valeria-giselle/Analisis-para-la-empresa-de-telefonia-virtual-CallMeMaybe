@@ -51,6 +51,7 @@ Data was cleaned and transformed using Python.
 
 ## ▶ How to Run the Project
 pip install -r requirements.txt
+
 jupyter notebook notebooks/proyecto_sprint_14.ipynb
 
 ## ✨ Final Note
@@ -110,6 +111,7 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 
 ## ▶ Cómo Ejecutar el Proyecto
 pip install -r requirements.txt
+
 jupyter notebook notebooks/proyecto_sprint_14.ipynb
 
 ## ✨ Nota Final
