@@ -44,9 +44,9 @@ Data was cleaned and transformed using Python.
 - `dashboard/`     → Dashboard screenshots or Tableau link
 - `data/`          → Datasets used in the analysis
 - `notebooks/`     → Jupyter notebooks with analysis and scoring logic
-- `Hallazgos Evaluación Empresa CallMeMaybe.pdf`
-- `README.md`
-- `README_EN.md` → English version
+- `Hallazgos Evaluación Empresa CallMeMaybe.pdf` → Project presentation
+- `README.md` → Project description in Spanish
+- `README_EN.md` → Project description in English
 - `requirements.txt`
 
 ## ⚙️ Technologies
