@@ -42,7 +42,7 @@ Data was cleaned and transformed using Python.
 
 ## 📁 Repository Structure
 - `dashboard/`     → Dashboard screenshots or Tableau link
-- `data/`          → Datasets used in the analysis
+- `datasets/`          → Datasets used in the analysis
 - `notebooks/`     → Jupyter notebooks with analysis and scoring logic
 - `Hallazgos Evaluación Empresa CallMeMaybe.pdf` → Project presentation
 - `README.md` → Project description in Spanish
