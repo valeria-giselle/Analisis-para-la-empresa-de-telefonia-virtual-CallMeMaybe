@@ -44,7 +44,7 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - `dashboard/`     → Tableau link
 - `data/`          → Datasets usados en el proyecto
 - `notebooks/`     → Jupyter notebook
-- `Hallazgos Evaluación Empresa CallMeMaybe.pdf`
+- `Hallazgos Evaluación Empresa CallMeMaybe.pdf` → Presentación del proyecto
 - `README.md` → Descripción del proyecto en español
 - `README_EN.md` → Descripción del proyecto en inglés
 - `requirements.txt`
