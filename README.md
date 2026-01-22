@@ -47,7 +47,7 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - `Hallazgos Evaluación Empresa CallMeMaybe.pdf` → Presentación del proyecto
 - `README.md` → Descripción del proyecto en español
 - `README_EN.md` → Descripción del proyecto en inglés
-- `requirements.txt`
+- `requirements.txt` → Dependencias del proyecto
 
 ## ⚙️ Tecnologías
 - Python
