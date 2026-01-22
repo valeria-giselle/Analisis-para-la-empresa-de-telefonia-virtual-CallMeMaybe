@@ -1,3 +1,4 @@
+# 🇺🇸 ENGLISH VERSION
 # CallMeMaybe – Operator Performance Scoring System
 
 ## 📌 Business Problem
@@ -41,12 +42,20 @@ Data was cleaned and transformed using Python.
 - Use the scoring model as an early warning system
 
 ## 📁 Repository Structure
-├── dashboard/     # Dashboard screenshots or Tableau link
-├── data/          # Datasets used in the analysis
-├── notebooks/     # Jupyter notebooks with analysis and scoring logic
-├── Hallazgos Evaluación Empresa CallMeMaybe.pdf
-├── README.md
+- dashboard/     # Dashboard screenshots or Tableau link
+- data/          # Datasets used in the analysis
+- notebooks/     # Jupyter notebooks with analysis and scoring logic
+- Hallazgos Evaluación Empresa CallMeMaybe.pdf
+- README.md
+- requirements.txt
 
+## ▶ How to Run the Project
+pip install -r requirements.txt
+jupyter notebook notebooks/proyecto_sprint_14.ipynb
+
+This project demonstrates the application of data analysis to solve a real business problem, combining operational metrics, analysis automation, and visualization to support decision-making.
+
+# 🇪🇸 VERSIÓN EN ESPAÑOL
 # CallMeMaybe – Sistema de Scoring de Desempeño de Operadores
 
 ## 📌 Problema de Negocio
@@ -90,9 +99,15 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - Utilizar el sistema de scoring como un mecanismo de alerta temprana para detectar problemas operativos
 
 ## 📁 Estructura del Repositorio
-├── dashboard/     # Tableau link
-├── data/          # Datasets usados en el proyecto
-├── notebooks/     # Jupyter notebook
-├── Hallazgos Evaluación Empresa CallMeMaybe.pdf
-├── README.md
+- dashboard/     # Tableau link
+- data/          # Datasets usados en el proyecto
+- notebooks/     # Jupyter notebook
+- Hallazgos Evaluación Empresa CallMeMaybe.pdf
+- README.md
+- requirements.txt
 
+## ▶ Cómo Ejecutar el Proyecto
+pip install -r requirements.txt
+jupyter notebook notebooks/proyecto_sprint_14.ipynb
+
+Este proyecto demuestra la aplicación de análisis de datos para resolver un problema real de negocio, combinando métricas operativas, automatización del análisis y visualización para apoyar la toma de decisiones.
