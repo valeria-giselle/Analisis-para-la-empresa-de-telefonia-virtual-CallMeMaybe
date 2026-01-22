@@ -42,9 +42,9 @@ Data was cleaned and transformed using Python.
 - Use the scoring model as an early warning system
 
 ## 📁 Repository Structure
-- dashboard/     # Dashboard screenshots or Tableau link
-- data/          # Datasets used in the analysis
-- notebooks/     # Jupyter notebooks with analysis and scoring logic
+- dashboard/     → Dashboard screenshots or Tableau link
+- data/          → Datasets used in the analysis
+- notebooks/     → Jupyter notebooks with analysis and scoring logic
 - Hallazgos Evaluación Empresa CallMeMaybe.pdf
 - README.md
 - requirements.txt
@@ -102,9 +102,9 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - Utilizar el sistema de scoring como un mecanismo de alerta temprana para detectar problemas operativos
 
 ## 📁 Estructura del Repositorio
-- dashboard/     # Tableau link
-- data/          # Datasets usados en el proyecto
-- notebooks/     # Jupyter notebook
+- dashboard/     → Tableau link
+- data/          → Datasets usados en el proyecto
+- notebooks/     → Jupyter notebook
 - Hallazgos Evaluación Empresa CallMeMaybe.pdf
 - README.md
 - requirements.txt
