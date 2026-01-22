@@ -41,12 +41,13 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - Utilizar el sistema de scoring como un mecanismo de alerta temprana para detectar problemas operativos
 
 ## 📁 Estructura del Repositorio
-- dashboard/     → Tableau link
-- data/          → Datasets usados en el proyecto
-- notebooks/     → Jupyter notebook
-- Hallazgos Evaluación Empresa CallMeMaybe.pdf
-- README.md
-- requirements.txt
+- `dashboard/`     → Tableau link
+- `data/`          → Datasets usados en el proyecto
+- `notebooks/`     → Jupyter notebook
+- `Hallazgos Evaluación Empresa CallMeMaybe.pdf`
+- `README.md`
+- `README_EN.md` → English version 
+- `requirements.txt`
 
 ## ⚙️ Tecnologías
 - Python
