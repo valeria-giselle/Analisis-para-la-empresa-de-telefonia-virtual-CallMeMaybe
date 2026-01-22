@@ -45,8 +45,8 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 - `data/`          → Datasets usados en el proyecto
 - `notebooks/`     → Jupyter notebook
 - `Hallazgos Evaluación Empresa CallMeMaybe.pdf`
-- `README.md`
-- `README_EN.md` → English version 
+- `README.md` → Descripción del proyecto en español
+- `README_EN.md` → Descripción del proyecto en inglés
 - `requirements.txt`
 
 ## ⚙️ Tecnologías
