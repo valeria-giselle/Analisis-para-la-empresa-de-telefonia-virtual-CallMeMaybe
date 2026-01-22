@@ -42,7 +42,7 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 
 ## 📁 Estructura del Repositorio
 - `dashboard/`     → Tableau link
-- `data/`          → Datasets usados en el proyecto
+- `datasets/`          → Datasets usados en el proyecto
 - `notebooks/`     → Jupyter notebook
 - `Hallazgos Evaluación Empresa CallMeMaybe.pdf` → Presentación del proyecto
 - `README.md` → Descripción del proyecto en español
