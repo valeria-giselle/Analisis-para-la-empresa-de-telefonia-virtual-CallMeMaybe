@@ -1,4 +1,4 @@
-# 🇺🇸 ENGLISH VERSION
+## 🇺🇸 ENGLISH VERSION
 # CallMeMaybe – Operator Performance Scoring System
 
 ## 📌 Business Problem
@@ -53,9 +53,11 @@ Data was cleaned and transformed using Python.
 pip install -r requirements.txt
 jupyter notebook notebooks/proyecto_sprint_14.ipynb
 
+## ✨ Final Note
 This project demonstrates the application of data analysis to solve a real business problem, combining operational metrics, analysis automation, and visualization to support decision-making.
 
-# 🇪🇸 VERSIÓN EN ESPAÑOL
+
+## 🇪🇸 VERSIÓN EN ESPAÑOL
 # CallMeMaybe – Sistema de Scoring de Desempeño de Operadores
 
 ## 📌 Problema de Negocio
@@ -110,4 +112,5 @@ Los datos fueron limpiados, transformados y preparados utilizando Python.
 pip install -r requirements.txt
 jupyter notebook notebooks/proyecto_sprint_14.ipynb
 
+## ✨ Nota Final
 Este proyecto demuestra la aplicación de análisis de datos para resolver un problema real de negocio, combinando métricas operativas, automatización del análisis y visualización para apoyar la toma de decisiones.
