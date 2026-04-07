@@ -1,3 +1,6 @@
+🌐 **Lenguaje:**  
+[English version](README_EN.md)
+
 # CallMeMaybe – Sistema de Scoring de Desempeño de Operadores
 
 ## 📌 Problema de Negocio
